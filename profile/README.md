@@ -26,7 +26,7 @@ Licensed under the [MIT License](https://github.com/tplAIter/.github/blob/main/L
 
 | Component | Focus | Availability |
 | :--- | :--- | :--- |
-| **Core** | Template engine and lifecycle tooling | Private development preview |
+| **Core** | Template engine and lifecycle tooling | Public development preview |
 | **Base** | Shared starting point for project templates | Public development preview |
 | **Go** | Go project templates | Public development preview |
 | **Rust** | Rust project templates | Public development preview |
