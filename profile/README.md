@@ -1,13 +1,28 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tplAIter/.github/main/assets/banner.png" alt="tplAIter — Templates for the way you build." width="100%">
+  <img src="https://raw.githubusercontent.com/tplAIter/.github/main/assets/banner.png?v=20260928" alt="tplAIter — Build with blocks. Spend fewer tokens." width="100%">
 </p>
 
-<p align="center"><strong>Composable templates for AI-assisted development.</strong></p>
+<p align="center"><strong>Reviewable template blocks for AI-assisted product development.</strong></p>
 <p align="center">Development preview · Private preview repositories</p>
 
-tplAIter brings reusable project templates and AI configuration into a shared development workflow. Built around a Go-native engine, it is designed for projects across languages and frameworks.
+tplAIter is being built around a simple idea: an AI agent should choose
+parameterized logic and code blocks through MCP instead of retyping boilerplate.
+The resulting project shape stays visible, reviewable, and useful to both local
+or budget-conscious models and frontier models working on harder product work.
+Smaller models can select verified blocks and parameters with focused context;
+frontier models can focus more of their context on product logic. Typed
+structures and a consistent architecture keep the result straightforward to
+review.
 
-Start with a versioned template, adapt it to your project, and keep a path back to the template as both evolve. The focus is the whole template lifecycle: project creation, configuration, updates, and understanding local changes.
+The intended flow is intent → MCP request → selected template blocks →
+validation. It is a development direction: the current repositories are private
+previews, and live lifecycle adapters are not yet complete.
+
+Evaluation target, not a measured result: 30% fewer coding and retrieval
+tokens. Reliability and maintainability are qualitative goals pending a defined
+evaluation.
+
+Licensed under the [MIT License](https://github.com/tplAIter/.github/blob/main/LICENSE).
 
 | Component | Focus | Availability |
 | :--- | :--- | :--- |
