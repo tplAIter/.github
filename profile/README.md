@@ -3,7 +3,7 @@
 </p>
 
 <p align="center"><strong>Reviewable template blocks for AI-assisted product development.</strong></p>
-<p align="center">Development preview · Private preview repositories</p>
+<p align="center">Public development preview</p>
 
 tplAIter is being built around a simple idea: an AI agent should choose
 parameterized logic and code blocks through MCP instead of retyping boilerplate.
@@ -15,7 +15,7 @@ structures and a consistent architecture keep the result straightforward to
 review.
 
 The intended flow is intent → MCP request → selected template blocks →
-validation. It is a development direction: the current repositories are private
+validation. It is a development direction: the repositories are development
 previews, and live lifecycle adapters are not yet complete.
 
 Evaluation target, not a measured result: 30% fewer coding and retrieval
@@ -27,9 +27,9 @@ Licensed under the [MIT License](https://github.com/tplAIter/.github/blob/main/L
 | Component | Focus | Availability |
 | :--- | :--- | :--- |
 | **Core** | Template engine and lifecycle tooling | Private development preview |
-| **Base** | Shared starting point for project templates | Private development preview |
-| **Go** | Go project templates | Private development preview |
-| **Rust** | Rust project templates | Private development preview |
+| **Base** | Shared starting point for project templates | Public development preview |
+| **Go** | Go project templates | Public development preview |
+| **Rust** | Rust project templates | Public development preview |
 | **React** | React application templates | Planned |
 | **Next** | Next.js modifier for React templates. | Planned |
 
